@@ -1,5 +1,8 @@
 # Road-to-DataScience-ML-Step2---AccuracyCaluclation
 In this Repo I will use different Algorithms to Calculate and improve accuracy.
+
+In My previous Repo- Road-to-DataScience-ML-Step2--AccuracyCaluclation, I discussed Steps for Cleaning and Tidying the Data Set, these are First and Foremost Steps one should Follow while They are working on any Dataset. our next motive is Caluclating the Accuracy of our Dataset By applying some ML Algorithms, So in this Repo i will be dealing with those Algorithms.
+
 ## The Algorithms i used are:
      1. Naive Bayes Algorithm.
      2. K- Nearest Neighbors Algorithm.
